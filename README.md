@@ -8,6 +8,3 @@ Bloodmagic Online is a interactive comic, originally formatted as a scroll comic
 ## Project Status
 This project is still in the early stages of development. I'm hoping that Bloodmagic will be a genuinely interactive experience that plays with time, parallax, and decisions.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
