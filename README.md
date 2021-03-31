@@ -1,7 +1,7 @@
 
 # Bloodmagic Online
 
-Bloodmagic Online is a interactive comic, originally formatted as a scroll comic hosted on webtoon and now interactive on github! Bloodmagic is about a blood pact made between lovers in the late hours of the night, but one will inevitably disappear before morning. Play along to find out who survives the night.
+Bloodmagic Online is a interactive comic, originally formatted as a scroll comic hosted on webtoon and now interactive online! Bloodmagic is about a blood pact made between lovers in the late hours of the night, but one will inevitably disappear before morning. Play along to find out who survives the night.
 
 ![alt](https://github.com/goudatime/bloodmagic/blob/70b19be574ee5853addb5b678e21f9bc8e4d579d/bloodmagicopening.png)
 
